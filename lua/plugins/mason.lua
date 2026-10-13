@@ -5,6 +5,8 @@ return {
       -- C++
       "clang-format",
       "clangd",
+      -- JSON
+      "json-lsp",
       -- Lua
       "stylua",
       -- Shell
@@ -18,6 +20,9 @@ return {
       "gopls",
       -- Rust
       "rust-analyzer",
+
+      -- Miscs
+      "prettier",
     },
   },
 }
