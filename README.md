@@ -1,4 +1,10 @@
-# 💤 LazyVim
+# My LazyVim Configuration
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Maintainer: wold9168(moewold@outlook.com; wold9168@GitHub)
+
+## Note for myself
+
+Wrap: `[v]gsa(`
+De-Wrap: `[v]gsd(`
+Replace-Wrap: `[v]gsr([`
+
